@@ -3,6 +3,8 @@
 * [标题](#title)
 * [注释块](#notes)
 * [字体](#fonts)
+* [Github Markdown 语法](https://github.com/guodongxiaren/README "Markdown")
+* [Github Markdown 表情](https://github.com/guodongxiaren/README/blob/master/emoji.md "Markdown")
 
 <b id="title" > </b>
 ###标题
@@ -26,3 +28,4 @@ __粗体__
 
 ***粗体加斜体***   
 ___粗体加斜体___
+
